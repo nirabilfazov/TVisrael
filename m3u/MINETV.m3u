@@ -1,0 +1,337 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="==== Caucasus ====" tvg-logo="" group-title="",==== Caucasus ====
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5222
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: AMC" tvg-logo="" group-title="Caucasus",AZ: AMC
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5215
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: CBC AZERBAJAN" tvg-logo="" group-title="Caucasus",AZ: CBC AZERBAJAN
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5217
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: CBC SPORT HD" tvg-logo="" group-title="Caucasus",AZ: CBC SPORT HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5216
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: LIDER TV" tvg-logo="" group-title="Caucasus",AZ: LIDER TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5220
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: ICTIMAI TV" tvg-logo="" group-title="Caucasus",AZ: ICTIMAI TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5219
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: IDMAN" tvg-logo="" group-title="Caucasus",AZ: IDMAN
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5218
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: ATV AZ" tvg-logo="" group-title="Caucasus",AZ: ATV AZ
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10200
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: AZ TV" tvg-logo="" group-title="Caucasus",AZ: AZ TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10201
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: AZAD TV" tvg-logo="" group-title="Caucasus",AZ: AZAD TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10202
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: Guzan TV" tvg-logo="" group-title="Caucasus",AZ: Guzan TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10199
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: INTER" tvg-logo="" group-title="Caucasus",AZ: INTER
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10198
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: MEDENIYYET TV" tvg-logo="" group-title="Caucasus",AZ: MEDENIYYET TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10197
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: SPACE TV" tvg-logo="" group-title="Caucasus",AZ: SPACE TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10196
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: XEZER TV" tvg-logo="" group-title="Caucasus",AZ: XEZER TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10195
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: Setanta Eurasia HD" tvg-logo="" group-title="Caucasus",AZ: Setanta Eurasia HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7356
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: Setanta Eurasia Plus" tvg-logo="" group-title="Caucasus",AZ: Setanta Eurasia Plus
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7357
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP ISRAEL's =====" tvg-logo="" group-title="Hebrew",===== VIP Hebrew's =====
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5962
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Kan11 HD 1080P" tvg-logo="" group-title="Hebrew",VIP IL: Kan11 HD 1080P
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/18131
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Makan HD" tvg-logo="" group-title="Hebrew",VIP IL: Makan HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19378
+#EXTINF:-1 tvg-ID="Channel9.il" tvg-name="VIP IL: Channel 9" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Hebrew",VIP IL: Channel 9
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6105
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Channel 12 HD 1080P" tvg-logo="" group-title="Hebrew",VIP IL: Channel 12 HD 1080P
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19374
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Channel 13 HD 1080P" tvg-logo="" group-title="Hebrew",VIP IL: Channel 13 HD 1080P
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19375
+#EXTINF:-1 tvg-ID="Channel10.il" tvg-name="VIP IL: Channel 14 HD" tvg-logo="https://image.ibb.co/nrM6MS/ch14.png" group-title="Hebrew",VIP IL: Channel 14 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16223
+#EXTINF:-1 tvg-ID="Channel20.il" tvg-name="VIP IL: Channel 20" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Hebrew",VIP IL: Channel 20
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/3301
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Channel 23 HD 1080P" tvg-logo="" group-title="Hebrew",VIP IL: Channel 23 HD 1080P
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19376
+#EXTINF:-1 tvg-ID="Channel24.il" tvg-name="VIP IL: Channel 24" tvg-logo="https://image.ibb.co/dVt9an/Channel24.png" group-title="Hebrew",VIP IL: Channel 24
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/3303
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Kan33" tvg-logo="http://image.ibb.co/ehp7Y7/kan33.png" group-title="Hebrew",VIP IL: Kan33
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/14595
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Hala TV" tvg-logo="" group-title="Hebrew",VIP IL: Hala TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19381
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: News Online HD" tvg-logo="" group-title="Hebrew",VIP IL: News Online HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19379
+#EXTINF:-1 tvg-ID="OneHD.il" tvg-name="VIP IL: ONE 1 HD" tvg-logo="https://image.ibb.co/bVzAgS/ONEHD.png" group-title="Hebrew",VIP IL: ONE 1 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5956
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: ONE 2 HD" tvg-logo="" group-title="Hebrew",VIP IL: ONE 2 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19104
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: YES SPORT1 FHD" tvg-logo="" group-title="Hebrew",VIP IL: YES SPORT1 FHD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/20415
+#EXTINF:-1 tvg-ID="Sport1HD.il" tvg-name="VIP IL: YES SPORT1 HD" tvg-logo="https://image.ibb.co/cd1ean/YESSPORT1_HD.png" group-title="Hebrew",VIP IL: YES SPORT1 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5958
+#EXTINF:-1 tvg-ID="Sport2.il" tvg-name="VIP IL: YES SPORT2 HD" tvg-logo="https://image.ibb.co/i8kNvn/YESSPORT2_HD.png" group-title="Hebrew",VIP IL: YES SPORT2 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5957
+#EXTINF:-1 tvg-ID="Sport3.il" tvg-name="VIP IL: YES SPORT3 HD" tvg-logo="https://image.ibb.co/mWgHT7/YESSPORT3_HD.png" group-title="Hebrew",VIP IL: YES SPORT3 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/11471
+#EXTINF:-1 tvg-ID="VIPILYESSPORT4HD" tvg-name="VIP IL: YES SPORT4 HD" tvg-logo="https://image.ibb.co/nL9t1S/YESSPORT4_HD.png" group-title="Hebrew",VIP IL: YES SPORT4 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/11472
+#EXTINF:-1 tvg-ID="FoxSportHD.il" tvg-name="VIP IL: Fox Sport HD" tvg-logo="https://image.ibb.co/erZXvn/Fox_Sport_HD.png" group-title="Hebrew",VIP IL: Fox Sport HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/3341
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Sport 5 FHD" tvg-logo="" group-title="Hebrew",VIP IL: Sport 5 FHD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/20416
+#EXTINF:-1 tvg-ID="Sport5Plus.il" tvg-name="VIP IL: Sport 5+ Live HD" tvg-logo="https://image.ibb.co/gA9Mo7/Sport5_Live_HD.png" group-title="Hebrew",VIP IL: Sport 5+ Live HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5959
+#EXTINF:-1 tvg-ID="Sport5HD.il" tvg-name="VIP IL: Sport 5+ Stars HD" tvg-logo="https://image.ibb.co/einkFn/Sport5HD.png" group-title="Hebrew",VIP IL: Sport 5+ Stars HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5955
+#EXTINF:-1 tvg-ID="Sport5Plus.il" tvg-name="VIP IL: Sport 5 Plus" tvg-logo="https://image.ibb.co/mDPnT7/sport5online.png" group-title="Hebrew",VIP IL: Sport 5 Plus
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12823
+#EXTINF:-1 tvg-ID="Sport5gold.il" tvg-name="VIP IL: Sport 5 Gold" tvg-logo="https://image.ibb.co/cdY31S/sport5gold.jpg" group-title="Hebrew",VIP IL: Sport 5 Gold
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/11725
+#EXTINF:-1 tvg-ID="yes1.il" tvg-name="VIP IL: YES 1 HD" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Hebrew",VIP IL: YES 1 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16512
+#EXTINF:-1 tvg-ID="yes2.il" tvg-name="VIP IL: YES 2 HD" tvg-logo="https://image.ibb.co/b8mqgS/yes2hd.png" group-title="Hebrew",VIP IL: YES 2 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16513
+#EXTINF:-1 tvg-ID="yes3.il" tvg-name="VIP IL: YES 3 HD" tvg-logo="https://image.ibb.co/cAGqgS/yes3hd.png" group-title="Hebrew",VIP IL: YES 3 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16514
+#EXTINF:-1 tvg-ID="yes4.il" tvg-name="VIP IL: YES 4 HD" tvg-logo="https://image.ibb.co/cwbCvn/yes4hd.png" group-title="Hebrew",VIP IL: YES 4 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16515
+#EXTINF:-1 tvg-ID="yes5.il" tvg-name="VIP IL: YES 5 HD" tvg-logo="https://image.ibb.co/kKgO1S/yes5hd.png" group-title="Hebrew",VIP IL: YES 5 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16516
+#EXTINF:-1 tvg-ID="yesOh.il" tvg-name="VIP IL: YES OH HD" tvg-logo="https://image.ibb.co/fu0u87/yesohhd.png" group-title="Hebrew",VIP IL: YES OH HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16521
+#EXTINF:-1 tvg-ID="yesActionHD.il" tvg-name="VIP IL: YES ACTION HD" tvg-logo="https://image.ibb.co/fTogo7/YESACTIONHD.png" group-title="Hebrew",VIP IL: YES ACTION HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16517
+#EXTINF:-1 tvg-ID="yesComedy.il" tvg-name="VIP IL: YES COMEDY HD" tvg-logo="https://preview.ibb.co/i2BZ87/yescomedyhd.png" group-title="Hebrew",VIP IL: YES COMEDY HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16518
+#EXTINF:-1 tvg-ID="yesDrama.il" tvg-name="VIP IL: YES DRAMA HD" tvg-logo="https://image.ibb.co/bP7Kan/yesdramahd.png" group-title="Hebrew",VIP IL: YES DRAMA HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16520
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: YES EDGE HD" tvg-logo="" group-title="Hebrew",VIP IL: YES EDGE HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17209
+#EXTINF:-1 tvg-ID="yesDocu.il" tvg-name="VIP IL: YES DOCU HD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Hebrew",VIP IL: YES DOCU HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16519
+#EXTINF:-1 tvg-ID="yesIsraeliCinema.il" tvg-name="VIP IL: YES CINEMA HD" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Hebrew",VIP IL: YES CINEMA HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16522
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: YES KidZ HD" tvg-logo="" group-title="Hebrew",VIP IL: YES KidZ HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17205
+#EXTINF:-1 tvg-ID="hot3.il" tvg-name="VIP IL: HOT3 HD" tvg-logo="https://image.ibb.co/dNLu87/HOT3HD.png" group-title="Hebrew",VIP IL: HOT3 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6106
+#EXTINF:-1 tvg-ID="HotZone.il" tvg-name="VIP IL: HOT ZONE HD" tvg-logo="https://image.ibb.co/cs8svn/HOTZONEHD.png" group-title="Hebrew",VIP IL: HOT ZONE HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6107
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: HOT HBO HD" tvg-logo="https://image.ibb.co/j3gCvn/HOTHBOHD.png" group-title="Hebrew",VIP IL: HOT HBO HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6110
+#EXTINF:-1 tvg-ID="HotDrama.il" tvg-name="VIP IL: HOT MOVIES 1HD" tvg-logo="https://image.ibb.co/jzqi1S/HOTDRAMAHD.png" group-title="Hebrew",VIP IL: HOT MOVIES 1HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6108
+#EXTINF:-1 tvg-ID="HotAction.il" tvg-name="VIP IL: HOT MOVIES 2HD" tvg-logo="https://image.ibb.co/gLZMo7/HOTACTIONHD.png" group-title="Hebrew",VIP IL: HOT MOVIES 2HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5960
+#EXTINF:-1 tvg-ID="HotGOLD.il" tvg-name="VIP IL: HOT MOVIES 3HD" tvg-logo="https://image.ibb.co/c5Fu87/HOTGOLDHD.png" group-title="Hebrew",VIP IL: HOT MOVIES 3HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/5961
+#EXTINF:-1 tvg-ID="HotFun.il" tvg-name="VIP IL: HOT MOVIES 4HD" tvg-logo="https://image.ibb.co/gfWZ87/HOTFUNHD.png" group-title="Hebrew",VIP IL: HOT MOVIES 4HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6109
+#EXTINF:-1 tvg-ID="VIPILHOTComedyCentralHD" tvg-name="VIP IL: HOT Comedy Central HD" tvg-logo="https://image.ibb.co/m9EnT7/hotcomedycentralhd.png" group-title="Hebrew",VIP IL: HOT Comedy Central HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6104
+#EXTINF:-1 tvg-ID="VIPILHOTEntertainment" tvg-name="VIP IL: HOT Entertainment" tvg-logo="https://image.ibb.co/erxVgS/hotentertainment.png" group-title="Hebrew",VIP IL: HOT Entertainment
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6102
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: HOT Bollywood HD" tvg-logo="" group-title="Hebrew",VIP IL: HOT Bollywood HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/20368
+#EXTINF:-1 tvg-ID="VIPILHOTBombay" tvg-name="VIP IL: HOT Bombay" tvg-logo="https://image.ibb.co/grF5Fn/hotbombay.png" group-title="Hebrew",VIP IL: HOT Bombay
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12028
+#EXTINF:-1 tvg-ID="Channel8.il" tvg-name="VIP IL: HOT 8 HD" tvg-logo="https://image.ibb.co/fDRZ87/HOTChannel8.png" group-title="Hebrew",VIP IL: HOT 8 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/8141
+#EXTINF:-1 tvg-ID="Zoom.il" tvg-name="VIP IL: zOOM" tvg-logo="https://image.ibb.co/fsrj87/zOOM.png" group-title="Hebrew",VIP IL: zOOM
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/8146
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Hop" tvg-logo="https://image.ibb.co/cSYsvn/HOPIL.png" group-title="Hebrew",VIP IL: Hop
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16062
+#EXTINF:-1 tvg-ID="Hop.il" tvg-name="VIP IL: HOP YALDUT" tvg-logo="https://image.ibb.co/cSYsvn/HOPIL.png" group-title="Hebrew",VIP IL: HOP YALDUT
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6114
+#EXTINF:-1 tvg-ID="HomePlus.il" tvg-name="VIP IL: Home Plus" tvg-logo="https://image.ibb.co/jGjbMS/HomePlus.png" group-title="Hebrew",VIP IL: Home Plus
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6103
+#EXTINF:-1 tvg-ID="Viva.il" tvg-name="VIP IL: VIVA" tvg-logo="https://image.ibb.co/htbean/VIVA.png" group-title="Hebrew",VIP IL: VIVA
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/14531
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: VIVA Plus" tvg-logo="https://image.ibb.co/htbean/VIVA.png" group-title="Hebrew",VIP IL: VIVA Plus
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6101
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Yam Tihoni" tvg-logo="https://image.ibb.co/dmS7T7/yamtihoni.png" group-title="Hebrew",VIP IL: Yam Tihoni
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12031
+#EXTINF:-1 tvg-ID="DisneyJunior.il" tvg-name="VIP IL: Disney Jr" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",VIP IL: Disney Jr
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9575
+#EXTINF:-1 tvg-ID="Nickelodeon.il" tvg-name="VIP IL: NickTeen" tvg-logo="https://image.ibb.co/kA3svn/Nickelodeon.png" group-title="Hebrew",VIP IL: NickTeen
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6112
+#EXTINF:-1 tvg-ID="NickJr.il" tvg-name="VIP IL: Nick Jr" tvg-logo="https://image.ibb.co/b5Jgo7/NickJr.png" group-title="Hebrew",VIP IL: Nick Jr
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6113
+#EXTINF:-1 tvg-ID="Baby.il" tvg-name="VIP IL: Baby TV" tvg-logo="https://image.ibb.co/dsvNvn/BabyTV.png" group-title="Hebrew",VIP IL: Baby TV
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/6111
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Hot Kidz" tvg-logo="https://image.ibb.co/f56Z87/logi.png" group-title="Hebrew",VIP IL: Hot Kidz
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12035
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Luli" tvg-logo="https://preview.ibb.co/buiE87/lulitv.png" group-title="Hebrew",VIP IL: Luli
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12034
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Mikan" tvg-logo="https://image.ibb.co/fpzzan/mikan.png" group-title="Hebrew",VIP IL: Mikan
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12033
+#EXTINF:-1 tvg-ID="VIPILJunior" tvg-name="VIP IL: Junior" tvg-logo="https://image.ibb.co/dyZzan/Junior.png" group-title="Hebrew",VIP IL: Junior
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/8143
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: i 24" tvg-logo="http://image.ibb.co/eZDefn/i24.png" group-title="Hebrew",VIP IL: i 24
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12299
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Knesset" tvg-logo="" group-title="Hebrew",VIP IL: Knesset
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19377
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Hidabroot Channel" tvg-logo="http://image.ibb.co/iecSY7/hidabroot.png" group-title="Hebrew",VIP IL: Hidabroot Channel
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7343
+#EXTINF:-1 tvg-ID="VIPILMTVIsreal" tvg-name="VIP IL: MTV Isreal" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Hebrew",VIP IL: MTV Isreal
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9573
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: CBS Reality" tvg-logo="http://image.ibb.co/cBTqmS/cbsreality.png" group-title="Hebrew",VIP IL: CBS Reality
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/14723
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: E! Entertainment" tvg-logo="http://image.ibb.co/e0GbRS/entertainment.png" group-title="Hebrew",VIP IL: E! Entertainment
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/14639
+#EXTINF:-1 tvg-ID="VIPILEgoTotal" tvg-name="VIP IL: Ego Total" tvg-logo="http://preview.ibb.co/fv3efn/egototal.png" group-title="Hebrew",VIP IL: Ego Total
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12586
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: National Geographic HD" tvg-logo="" group-title="Hebrew",VIP IL: National Geographic HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/19513
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: National Geo Wild" tvg-logo="https://preview.ibb.co/jbvi1S/natgeohd.png" group-title="Hebrew",VIP IL: National Geo Wild
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7344
+#EXTINF:-1 tvg-ID="Discovery.il" tvg-name="VIP IL: Discovery HD" tvg-logo="https://preview.ibb.co/k0UnT7/discoveryhd.png" group-title="Hebrew",VIP IL: Discovery HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7342
+#EXTINF:-1 tvg-ID="HistoryChannel.il" tvg-name="VIP IL: History HD" tvg-logo="https://image.ibb.co/gcNkFn/History_HD.png" group-title="Hebrew",VIP IL: History HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/8142
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Fine Living" tvg-logo="https://image.ibb.co/mjJxT7/fineliving.png" group-title="Hebrew",VIP IL: Fine Living
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12029
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Health Channel" tvg-logo="http://image.ibb.co/mi2GRS/healthchannel.png" group-title="Hebrew",VIP IL: Health Channel
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12032
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: GoodLife" tvg-logo="https://image.ibb.co/bCrCvn/goodlife.png" group-title="Hebrew",VIP IL: GoodLife
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16283
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Lifetime" tvg-logo="https://image.ibb.co/fgBO1S/Lifetime.png" group-title="Hebrew",VIP IL: Lifetime
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/12030
+#EXTINF:-1 tvg-ID="TravelChannel.il" tvg-name="VIP IL: Travel Channel" tvg-logo="https://image.ibb.co/iPQu87/Travel_Channel.png" group-title="Hebrew",VIP IL: Travel Channel
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7340
+#EXTINF:-1 tvg-ID="FoodChannel.il" tvg-name="VIP IL: Food Channel" tvg-logo="https://image.ibb.co/nKHVgS/foodchannel.png" group-title="Hebrew",VIP IL: Food Channel
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7341
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP Turkish =====" tvg-logo="" group-title="",===== VIP Turkish =====
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7339
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: A Haber 4K" tvg-logo="" group-title="Turkish",VIP TR: A Haber 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15291
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: A Spor 4K" tvg-logo="" group-title="Turkish",VIP TR: A Spor 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15290
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: ATV 4K" tvg-logo="" group-title="Turkish",VIP TR: ATV 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15289
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Beyaz TV 4K" tvg-logo="" group-title="Turkish",VIP TR: Beyaz TV 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15288
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bloomberg HT 4K" tvg-logo="" group-title="Turkish",VIP TR: Bloomberg HT 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15287
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: CNN Turk 4K" tvg-logo="" group-title="Turkish",VIP TR: CNN Turk 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15286
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Fox TV 4K" tvg-logo="" group-title="Turkish",VIP TR: Fox TV 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15285
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: HaberTurk 4K" tvg-logo="" group-title="Turkish",VIP TR: HaberTurk 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15284
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Kanal 24 4K" tvg-logo="" group-title="Turkish",VIP TR: Kanal 24 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15283
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Kanal 7 4K" tvg-logo="" group-title="Turkish",VIP TR: Kanal 7 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15282
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Kanal D 4K" tvg-logo="" group-title="Turkish",VIP TR: Kanal D 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15281
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Kral POP TV 4K" tvg-logo="" group-title="Turkish",VIP TR: Kral POP TV 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15280
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Kral TV 4K" tvg-logo="" group-title="Turkish",VIP TR: Kral TV 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15279
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: NTV Haber 4K" tvg-logo="" group-title="Turkish",VIP TR: NTV Haber 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15278
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: NTV SPOR 4K" tvg-logo="" group-title="Turkish",VIP TR: NTV SPOR 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15277
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Show TV 4K" tvg-logo="" group-title="Turkish",VIP TR: Show TV 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15276
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Star TV 4K" tvg-logo="" group-title="Turkish",VIP TR: Star TV 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15275
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TRT 1 4K" tvg-logo="" group-title="Turkish",VIP TR: TRT 1 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15274
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TRT Cocuk 4K" tvg-logo="" group-title="Turkish",VIP TR: TRT Cocuk 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15273
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TRT Haber 4K" tvg-logo="" group-title="Turkish",VIP TR: TRT Haber 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15272
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TRT Spor 4K" tvg-logo="" group-title="Turkish",VIP TR: TRT Spor 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15271
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TV 2 4K" tvg-logo="" group-title="Turkish",VIP TR: TV 2 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15270
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TV8 4K" tvg-logo="" group-title="Turkish",VIP TR: TV8 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15269
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Ulke TV 4K" tvg-logo="" group-title="Turkish",VIP TR: Ulke TV 4K
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/15268
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport Haber HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport Haber HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/14792
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport 1HD 1080P" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport 1HD 1080P
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16292
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport 2HD 1080P" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport 2HD 1080P
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16291
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport 3HD 1080P" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport 3HD 1080P
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16290
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport 4HD 1080P" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport 4HD 1080P
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16289
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport 1HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport 1HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7333
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport 2HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport 2HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7334
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport 3HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport 3HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7335
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport 4HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport 4HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7336
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport MAX 1HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport MAX 1HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9592
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Sport MAX 2HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Sport MAX 2HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9591
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein IZ HD" tvg-logo="" group-title="Turkish",VIP TR: Bein IZ HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/10561
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Action HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Action HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9585
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Action2 HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Action2 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17554
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Comedy HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Comedy HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17553
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Family HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Family HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17552
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Premier HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Premier HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9587
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Premier2 HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Premier2 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17555
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Stars HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Stars HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9586
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Festival HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Festival HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16199
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Turk HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Turk HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9582
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Series Comedy HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Series Comedy HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17627
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Series Drama HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Series Drama HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17628
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Series Vice HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Series Vice HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/17629
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Box Office 1HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Box Office 1HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9581
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Box Office 2HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Box Office 2HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9580
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Bein Box Office 3HD" tvg-logo="" group-title="Turkish",VIP TR: Bein Box Office 3HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/9579
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TiviBu Sport 1 HD" tvg-logo="" group-title="Turkish",VIP TR: TiviBu Sport 1 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7337
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TiviBu Sport 2 HD" tvg-logo="" group-title="Turkish",VIP TR: TiviBu Sport 2 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7338
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TiviBu Sport 3 HD" tvg-logo="" group-title="Turkish",VIP TR: TiviBu Sport 3 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7421
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TiviBu Sport 4 HD" tvg-logo="" group-title="Turkish",VIP TR: TiviBu Sport 4 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7422
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TiviBu Sport 5 HD" tvg-logo="" group-title="Turkish",VIP TR: TiviBu Sport 5 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/14793
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: Smart Sport 1 HD" tvg-logo="" group-title="Turkish",VIP TR: Smart Sport 1 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/7423
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: S sport HD" tvg-logo="" group-title="Turkish",VIP TR: S sport HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/11872
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART Action HD" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART Action HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/8049
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART Family" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART Family
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/3754
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART GOLD HD" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART GOLD HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/3753
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART Platin HD" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART Platin HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/8050
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART Premuim1 HD" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART Premuim1 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16286
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART Fest HD" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART Fest HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16285
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART Turk HD" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART Turk HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16284
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART PREMIUM 1" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART PREMIUM 1
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/3752
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART Premuim2 HD" tvg-logo="" group-title="Turkish",VIP TR: MOVIESMART Premuim2 HD
+http://client-proiptv.com:8080/pcIQfVaDUU/Ub2zkIZgV8/16287
